@@ -1,6 +1,4 @@
 # Stopping by Woods on a Snowy Evening
-## Robert Frost 
-#### *1922*
 
 Whose woods these are I think I know.\
 His house is in the village, though;\
@@ -22,6 +20,6 @@ But I have promises to keep,\
 And miles to go before I sleep,\
 And miles to go before I :sleeping:.
 
-
+*-Robert Frost*
 
 Poetry courtesy of [Public Domain Poetry](http://www.public-domain-poetry.com/robert-lee-frost/stopping-by-woods-on-a-snowy-evening-1231)
