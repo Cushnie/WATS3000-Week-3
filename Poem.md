@@ -1,5 +1,5 @@
 # Stopping by Woods on a Snowy Evening
-by ## Robert Frost
+## Robert Frost
 ####1922
 
 Whose woods these are I think I know.\
