@@ -1,8 +1,13 @@
 # Stopping by Woods on a Snowy Evening
+
 Whose woods these are I think I know.
+
 His house is in the village, though;
+
 He will not see me stopping here
+
 To watch his woods fill up with snow.
+
 
 My little horse must think it's queer
 To stop without a farmhouse near
