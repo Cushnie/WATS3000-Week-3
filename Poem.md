@@ -1,13 +1,10 @@
 # Stopping by Woods on a Snowy Evening
+## Robert Frost
 
 Whose woods these are I think I know.
-
 His house is in the village, though;
-
 He will not see me stopping here
-
 To watch his woods fill up with snow.
-
 
 My little horse must think it's queer
 To stop without a farmhouse near
@@ -24,4 +21,4 @@ But I have promises to keep,
 And miles to go before I sleep,
 And miles to go before I sleep.
 
-Poetry courtesy of [Public Domain Poetry] (http://www.public-domain-poetry.com/robert-lee-frost/stopping-by-woods-on-a-snowy-evening-1231)
+Poetry courtesy of [Public Domain Poetry](http://www.public-domain-poetry.com/robert-lee-frost/stopping-by-woods-on-a-snowy-evening-1231)
